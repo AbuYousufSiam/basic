@@ -1,1 +1,7 @@
 Hello World!
+
+
+Learn from internet:
+understand requirements.txt
+understand Dockerfile
+Understand settings.py
