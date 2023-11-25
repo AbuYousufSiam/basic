@@ -1,1 +1,19 @@
 Hello World!
+
+
+
+
+
+
+
+
+
+
+
+#cloud_journey/src/pets/models.py
+from django.contrib import admin
+from basicapp.models import Pet
+
+admin.site.register(Pet)
+
+this part will be in admin.py
