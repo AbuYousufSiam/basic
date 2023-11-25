@@ -14,3 +14,7 @@ this part will be in admin.py
 understand requirements.txt
 understand Dockerfile
 Understand settings.py
+
+Links: 
+https://moonstruck.gitbook.io/devops-mastery-vcs-to-cloud/django/django-workshop-with-ci-cd
+https://tutorial.djangogirls.org/en/installation/
