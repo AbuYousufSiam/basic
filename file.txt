@@ -15,6 +15,7 @@ understand requirements.txt
 understand Dockerfile
 Understand settings.py
 
+Remove this line
 Links: 
 https://moonstruck.gitbook.io/devops-mastery-vcs-to-cloud/django/django-workshop-with-ci-cd
 https://tutorial.djangogirls.org/en/installation/
